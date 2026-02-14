@@ -150,7 +150,7 @@ idle_shuffle = false
 
 
 ## Supported Hardware
-* [Raspberry Pi Zero 2]((https://amzn.to/4haKmgW)) (affiliate)
+* [Raspberry Pi Zero 2](https://amzn.to/4haKmgW)) (affiliate)
 * [Pimoroni Inky Impression 4"](https://collabs.shop/p3uwlu) (affiliate)
 * [Waveshare 4.01inch ACeP 7-Color E-Paper E-Ink Display HAT](https://amzn.to/409zZny) (affiliate)
 * [Pimoroni Inky Impression 5.7"](https://collabs.shop/fmdbjx) (affiliate)
